@@ -135,13 +135,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
         <a href="https://www.youtube.com/c/ABLKPGAchiBrolk">Youtube Channel</a> |
 	<a href="https://chat.whatsapp.com/FTtlr84ndUWIkR7PeHoqXJ">Whatsapp Bot Group</a> |
 	<a href="https://chat.whatsapp.com/KQRCEydZ4QwJ7JpKypx5gg">Whatsapp Tech Group</a> |
-	<a href="https://chat.whatsapp.com/BiRfTmouLQ2J7MaLdczOY5">Whatsapp Ehi Group</a> |
-	<a href="https://chat.whatsapp.com/GPUvBfhhz7OLZhckbGi8mj">Whatsapp knowledge Group</a> |
-	<a href="https://chat.whatsapp.com/GSijEqwPZBS4a3VzzlvKLM">Whatsapp Market Group</a>
     <br>
 </p>
-	
-	
 
 ## ```Connect With Me```
 <p align="center">
