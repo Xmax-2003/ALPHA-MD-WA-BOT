@@ -30,9 +30,9 @@
 </br>
 
 <a href="https://github.com/ALPHA-OFFICIAL-TEAM"><img title="Author" src="https://img.shields.io/badge/Author-Achi Fernando-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT/"><img title="Stars" src="https://img.shields.io/github/stars/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/nexusNw/Gojo-Satoru/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/nexusNw/Gojo-Satoru/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nexusNw/Gojo-Satoru?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a href="https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT/"><img title="Stars" src="https://img.shields.io/github/stars/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 ---
 
@@ -53,6 +53,9 @@ Add FFmpeg to PATH environment variable
 <b><details><summary>Start via Heroku</summary></b>
 
 * Scan QR In Your Whatsapp From [Here](https://replit.com/@AchiFernando4/ALPHA-MD-V1?v=1)
+
+[![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://replit.com/@AchiFernando4/ALPHA-MD-V1?v=1) 
+
 * Fork This Repo By Clicking [Here](https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT/fork)
 * then Deploy The Bot From [Here](https://heroku.com/deploy)
 * Wait 5-10 Min To Deploy 
@@ -149,9 +152,9 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 </details><hr>
 
 ## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Dark Alpha`](https://github.com/darkalphaxteam)
-* [`Trex Hiruwa`](http//github.com)
+ [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+ [`Dark Alpha`](https://github.com/darkalphaxteam)
+ [`Trex Hiruwa`](http//github.com)
 
 
 License: [MIT](https://github.com/Gojo-Satoru/LICENSE)
