@@ -52,14 +52,14 @@ Add FFmpeg to PATH environment variable
 <!-- Start via Heroku -->
 <b><details><summary>Start via Heroku</summary></b>
 
-* Scan QR In Your Whatsapp From [Here](https://replit.com/@AchiFernando4/ALPHA-MD-V1?v=1)
+ Scan QR In Your Whatsapp From [Here](https://replit.com/@AchiFernando4/ALPHA-MD-V1?v=1)
 
 [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://replit.com/@AchiFernando4/ALPHA-MD-V1?v=1) 
 
-* Fork This Repo By Clicking [Here](https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT/fork)
-* then Deploy The Bot From [Here](https://heroku.com/deploy)
-* Wait 5-10 Min To Deploy 
-* After Deploying On The Worker And Check The Logs
+ Fork This Repo By Clicking [Here](https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT/fork)
+ then Deploy The Bot From [Here](https://heroku.com/deploy)
+ Wait 5-10 Min To Deploy 
+ After Deploying On The Worker And Check The Logs
 
 </details>
 
@@ -102,11 +102,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 | Features |  Availability |
 | :------: |  :----------: |
 |   Convert     |       ✅     |
-|   Database     |       ✅     |
 |   Owner     |       ✅    |
-|   Islami     |       ✅     |
 |   Downloader     |       ✅     |
-|   Webzone     |       ✅[      |
 |   Searching     |       ✅      |
 |   Textpro     |       ✅      |
 |   Ephoto     |       ✅     |
