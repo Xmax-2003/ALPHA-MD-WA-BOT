@@ -25,7 +25,6 @@
 
 > Dont forget to give a star bro. IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
-> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-MD-WA-BOT/blob//settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
 
 
 </br>
@@ -124,7 +123,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 <!-- Contact Owner -->
 <b><details><summary>Contact</summary></b>
 	
-		</div>
+
 <p align="center">
     World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot
     <br>
